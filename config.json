@@ -1,0 +1,15 @@
+{
+    "ownerNumber": ["628565337357@s.whatsapp.net","6285264364553@s.whatsapp.net","6283131473734@s.whatsapp.net","6282113649279@s.whatsapp.net","6282172379650@s.whatsapp.net"],
+    "botName": "Miaw Bot",
+    "ownerName": "Miaw",
+    "footer": "Miaw Bot - Serv4n",
+    "apikey": "KaysaS",
+    "pathImg": "./media/logo.jpg",
+    "sessionName": "fadlyid",
+    "limitCount": 15,
+    "gamewaktu": 60,
+    "gcount": {
+        "prem": 100,
+        "user": 30
+    }
+}
